@@ -1,3 +1,3 @@
 # hello
-This is my first..... this is super great. 
+This is my first. This is super great. 
 i am looking forward 
